@@ -11,13 +11,13 @@ Clinic stakeholders noticed satisfaction scores were declining (averaging 3.74/ 
 How can we determine where bottlenecks are occurring in the patient journey, AND make adjustments to improve patient satisfaction?
 
 ## Methodology:
-Applying my background in clinical and insurance operations, I:
+Applying my background in clinical and insurance operations, I developed:
 
-1. Developed a **Python ETL pipeline** for automation (data cleaning & feature engineering)
+1. a **Python ETL pipeline** for automation (data cleaning & feature engineering)
 
-2. Created a **Power BI dashboard** for real-time visibility into clinic operations (KPIs)
+2. a **Power BI dashboard** for real-time visibility into clinic operations (KPIs)
 
-3. Performed statistical **modeling and bottleneck** **analysis** to spot pain points
+3. a statistical **modeling and bottleneck** **analysis** to spot pain points
 
    
 ##### _For this project scope, a CSV file was used. In a production environment, a direct database connection (e.g., SQL) would be the scalable best practice!_
