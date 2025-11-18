@@ -38,6 +38,8 @@ Business Intelligence: KPIs, metric tracking, dashboard creation, stakeholder re
 ### Results & Business Recommendation:
 The analysis revealed that patients with long waits (>25 min) had significantly lower satisfaction scores (2.95 vs 4.61 for short waits). Pediatrics showed the longest average wait times (22.9 min) while afternoons were the busiest slots.
 
+<img width="469" height="301" alt="image" src="https://github.com/user-attachments/assets/50b4ed4b-9a3b-4a6e-b263-0e1ceee34d82" />
+
 **Here’s how to fix it:**
 
 - **Immediate** Actions (0-3 Months):
