@@ -9,6 +9,9 @@ The analysis reveals opportunities to **reduce average wait times** from 22.1 to
 Clinic stakeholders noticed satisfaction scores were declining (averaging 3.74/ 5) with 38.9% of patients experiencing long waits **over 25 minutes.** This is directly tied to clinic revenue and retention in **Dubai's competitive healthcare market**. 
 
 How can we determine where bottlenecks are occurring in the patient journey, AND make adjustments to improve patient satisfaction?
+<img width="928" height="549" alt="image" src="https://github.com/user-attachments/assets/92e9a82b-db48-4b5c-8cd7-d2a436855f3a" />
+
+
 
 ## Methodology:
 Applying my background in clinical and insurance operations, I developed:
