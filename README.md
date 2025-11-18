@@ -1,4 +1,4 @@
-# Patient Flow Analysis for Dubai Healthcare Clinic
+# Patient Flow Analysis for Dubai Clinic
 ## Executive Summary:
 Patient satisfaction scores were declining at a Dubai clinic due to **long wait times**, risking patient churn and revenue. Using Python and Power BI, I identified bottlenecks in patient flow and developed a business action plan. 
 
