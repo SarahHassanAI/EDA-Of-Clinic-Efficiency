@@ -1,10 +1,12 @@
 # Patient Flow Analysis for Dubai Clinic
+
 ## Executive Summary:
+
 Patient satisfaction scores were declining at a Dubai clinic due to **long wait times**, risking patient churn and revenue. Using Python and Power BI, I identified bottlenecks in patient flow and developed a business action plan. 
 
 The analysis reveals opportunities to **reduce average wait times** from 22.1 to 15 minutes and **increase patient satisfaction** from 3.7 to 4.3 stars, potentially **protecting AED 85,000+ in annual revenue**.
 
-## The Business Problem:
+### The Business Problem:
 
 Clinic stakeholders noticed satisfaction scores were declining (averaging 3.74/ 5) with 38.9% of patients experiencing long waits **over 25 minutes.** This is directly tied to clinic revenue and retention in **Dubai's competitive healthcare market**. 
 
@@ -13,7 +15,7 @@ How can we determine where bottlenecks are occurring in the patient journey, AND
 
 
 
-## Methodology:
+### Methodology:
 Applying my background in clinical and insurance operations, I developed:
 
 1. a **Python ETL pipeline** for automation (data cleaning & feature engineering)
@@ -25,7 +27,7 @@ Applying my background in clinical and insurance operations, I developed:
    
 ##### _For this project scope, a CSV file was used. In a production environment, a direct database connection (e.g., SQL) would be the scalable best practice!_
 
-## Skills:
+### Skills:
 
 Python: Pandas, NumPy, Matplotlib, Seaborn, Feature engineering, statistics
 
@@ -33,7 +35,7 @@ Power BI: Dax, writing functions, ETL, calculated columns, data visualization, d
 
 Business Intelligence: KPIs, metric tracking, dashboard creation, stakeholder reporting
 
-## Results & Business Recommendation:
+### Results & Business Recommendation:
 The analysis revealed that patients with long waits (>25 min) had significantly lower satisfaction scores (2.95 vs 4.61 for short waits). Pediatrics showed the longest average wait times (22.9 min) while afternoons were the busiest slots.
 
 **Here’s how to fix it:**
@@ -56,7 +58,7 @@ The analysis revealed that patients with long waits (>25 min) had significantly 
 I believe these adjustments will target the largest satisfaction impact points & create a framework for continued operational excellence!
 
 
-## Next Steps
+### Next Steps
 
  - A/B test digital check-in
  - Develop predictive staffing models
