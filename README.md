@@ -28,7 +28,7 @@ Python: Pandas, NumPy, Matplotlib, Seaborn, Feature engineering, statistics
 
 Power BI: Dax, writing functions, ETL, calculated columns, data visualization, data modeling, KPI tracking
 
-Business Intelligence: KPI development, metric tracking, dashboard creation, stakeholder reporting
+Business Intelligence: KPIs, metric tracking, dashboard creation, stakeholder reporting
 
 ## Results & Business Recommendation:
 The analysis revealed that patients with long waits (>25 min) had significantly lower satisfaction scores (2.95 vs 4.61 for short waits). Pediatrics showed the longest average wait times (22.9 min) while afternoons were the busiest slots.
