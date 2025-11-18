@@ -24,9 +24,9 @@ Applying my background in clinical and insurance operations, I developed:
 
 ## Skills:
 
-Power BI: Dax, writing functions, ETL, calculated columns, data visualization, data modeling, KPI tracking
-
 Python: Pandas, NumPy, Matplotlib, Seaborn, Feature engineering, statistics
+
+Power BI: Dax, writing functions, ETL, calculated columns, data visualization, data modeling, KPI tracking
 
 Business Intelligence: KPI development, metric tracking, dashboard creation, stakeholder reporting
 
