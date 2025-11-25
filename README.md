@@ -17,9 +17,7 @@ How can we determine where bottlenecks are occurring in the patient journey, AND
 Applying my background in clinical and insurance operations, I developed:
 
 1. a **Python ETL pipeline** for automation (data cleaning & feature engineering)
-
 2. a **Power BI dashboard** for real-time visibility into clinic operations (KPIs)
-
 3. a statistical **modeling and bottleneck** **analysis** to spot pain points
 
    
@@ -34,25 +32,25 @@ Power BI: Dax, writing functions, ETL, calculated columns, data visualization, d
 Business Intelligence: KPIs, metric tracking, dashboard creation, stakeholder reporting
 
 ### Results & Business Recommendation:
-The analysis revealed that patients with long waits (>25 min) had significantly lower satisfaction scores (2.95 vs 4.61 for short waits). Pediatrics showed the longest average wait times (22.9 min) while afternoons were the busiest slots.
+The analysis revealed that patients with long waits (>25 min) had significantly lower satisfaction scores (2.95 vs 4.61 for short waits).  Pediatrics showed the longest average wait times (22.9 min) while afternoons were the busiest slots.
+
 
 <img width="469" height="301" alt="image" src="https://github.com/user-attachments/assets/50b4ed4b-9a3b-4a6e-b263-0e1ceee34d82" />
 
+
 **Here’s how to fix it:**
 
-- **Immediate** Actions (0-3 Months):
 
-   1. Assign additional support staff to Pediatrics during the high-volume afternoon slot.
+##### Immediate Actions _(0-3 Months)_:
 
-   2. Roll out a time-management program for doctors with the highest wait times.
+- Assign additional support staff to Pediatrics during the high-volume afternoon slot.
+- Roll out a time-management program for doctors with the highest wait times.
+- Implement SMS wait time updates to manage patient expectations
 
-   3. Implement SMS wait time updates to manage patient expectations
+##### Long-Term Initiatives _(6+ Months)_:
 
-- Long-Term Initiatives **(6+ Months)**:
-
-  1. **Develop a Predictive Staffing Model** using historical appointment patterns
-
-  2. **Automate insurance verification and digital check-in** to reduce front-desk congestion
+- **Develop a Predictive Staffing Model** using historical appointment patterns
+- **Automate insurance verification and digital check-in** to reduce front-desk congestion
 
 
 I believe these adjustments will target the largest satisfaction impact points & create a framework for continued operational excellence!
@@ -60,8 +58,7 @@ I believe these adjustments will target the largest satisfaction impact points &
 
 ### Next Steps
 
- - A/B test digital check-in
- - Develop predictive staffing models
- - Train staff on new patient flow protocols
- - Measure satisfaction score impact monthly
+- A/B test digital check-in
+- Train staff on new patient flow protocols
+- Measure satisfaction score impact monthly
 
